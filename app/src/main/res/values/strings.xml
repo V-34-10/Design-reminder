@@ -1,0 +1,25 @@
+<resources>
+    <string name="pro_button">pro_button</string>
+    <string name="notification_sound">Notification Sound</string>
+    <string name="message">Message</string>
+    <string name="its_time_to_drink_water">Its time to drink water</string>
+    <string name="need_pro_account">You need PRO account to create custom messages</string>
+    <string name="default_sound">Default</string>
+    <string name="play_button">play_button</string>
+    <string name="home_button">home_button</string>
+    <string name="reminder_button">reminder_button</string>
+    <string name="profile_button">profile_button</string>
+    <string name="notifications">Notifications</string>
+    <string name="ico_reminder">ico_reminder</string>
+    <string name="schedule">Schedule</string>
+    <string name="start">Start</string>
+    <string name="time_when_you_woke_up">Time when you woke up</string>
+    <string name="end">End</string>
+    <string name="time_when_go_sleep">Time when go sleep</string>
+    <string name="description_interval">Interval between messages</string>
+    <string name="title_interval">Interval</string>
+    <string name="title_reminder">Reminder</string>
+    <string name="off">Off</string>
+    <string name="on">ON</string>
+    <string name="click_edit">Click to edit</string>
+</resources>
